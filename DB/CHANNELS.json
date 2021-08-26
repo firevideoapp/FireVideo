@@ -1,0 +1,1604 @@
+[
+   {
+      "channelCat": "News",
+      "channelLang": "Kannada",
+      "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-227/list/1170x658_1957432816.jpg",
+      "channelName": "TV 5 Kannada",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/59c82bd713dd494894947ea7ed42bdf4/index.m3u8",
+      "contentId": "tv5kannada"
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Telugu",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20190307135451",
+      "channelName": "TV 5 Telugu",
+      "channelUrl": "https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8",
+      "contentId": "tv5telugu"
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "English",
+      "channelLogo": "https://image.roku.com/developer_channels/prod/b7d640bf85914deba5b4ab3eeaf936118aaf209d38da7ef6e2f2621307b31b16.png",
+      "channelName": "Fail Army India",
+      "channelUrl": "http://failarmy-international-in.samsung.wurl.com/manifest/playlist.m3u8",
+      "contentId": "failarmyindia"
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Telugu",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVM3p7b97gPO2yPTkmPdstTXSrqSd_O9UKZ9LD-e-g5xJ-Ou6vJL0NbaH&s=10",
+      "channelName": "Gemini Music",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1506",
+      "contentId": "geminimusic",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",
+      "channelName": "Star Gold 2",
+      "channelUrl": "http://mygoodstream.pw/proxy.php/http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8",
+      "contentId": "stargold2"
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Malayalam",
+      "channelLogo": "https://i.imgur.com/eS2fVDh.png",
+      "channelName": "Twenty Four News",
+      "channelUrl": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8",
+      "contentId": "24news_ml",
+      "Views": 17
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/6/65/9X_Jalwa_2012.jpg/revision/latest?cb=20180603135659",
+      "channelName": "9X Jalwa",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/index.m3u8",
+      "contentId": "9xjalwa_tv",
+      "Views": 156
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Marathi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/9x_Jhakaas.png?raw=true",
+      "channelName": "9X Jhakaas",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/7c652edb67ba4fcba361632f4b88f5f0/index.m3u8",
+      "contentId": "9xjhakaas_tv",
+      "Views": 139
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/9XM.png?raw=true",
+      "channelName": "9XM",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/index.m3u8",
+      "contentId": "9xm_tv",
+      "Views": 366
+   },
+   {
+      "channelCat": "",
+      "channelLang": "",
+      "channelLogo": "",
+      "channelName": "Test",
+      "channelUrl": "http://oreotv.us/live/aha/aha.m3u8?id=132237d6-404f-48cd-abce-296e7a3d4f1e",
+      "contentId": "Test",
+      "Views": 98
+   },
+   {
+      "channelCat": "",
+      "channelLang": "",
+      "channelLogo": "",
+      "channelName": "Test Ultra HD",
+      "channelUrl": "https://2475154694.tapecontent.net/radosgw/oAA9LzQZo8TJqwy/sKk9-PMmfWlyyF6-RyI8EZ65FSjzMvKOobjhSMiO6iOMysnqUY2QOcH13wD5RnvNDWA5PUBVheZmD5-UErvGERuJLXMnzWyxxBfYwETT-EvKFecoJ4fjXNIqK1iYjFl6maIywbqywbMmC_UyEja2Wb7myqV5toGi6AxcvTn1-teiT6uEadXYcaKcbdazOhADXKPTBDAskYf-JaegL9x2NWYLa83-vI7UAzeRfpqgU7zA0gwQksdRyFrj5Ntg4In-9kk9QZiGE13x0rjLrdtqh0RrI_Fcs19zBXvTlGXHJGbeIhE8nAuL-vEQ_ZMGxKdSolUYp587e4jvlN_oP8-A6ho9g6hgE1icOfofSKa_LcI1da9mjmuAs3vittQ/Param+Sundari+-Official+Video++Mimi++Kriti+Sanon%2C+Pankaj+Tripathi++%40A.+R.+Rahman+Shreya+Amitabh+-+10.mp4?stream=1",
+      "contentId": "Test Ultra HD",
+      "drmLicense": "http://livezer0.hjkm.info:11991/juno/cartoonnetworkhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIxIDQ6MjM6MjcgQU0maGFzaF92YWx1ZT1KVHM1OEc0cnBIU2paQTd3Wjk3QWxRPT0mdmFsaWRtaW51dGVzPTI=",
+      "Views": 734
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Hindi",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",
+      "channelName": "Aaj Tak",
+      "channelUrl": "https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/9bef4425a4cd4bd7acf3242a3156162d/index.m3u8",
+      "contentId": "aajtak_tv",
+      "Views": 630
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Bengali",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_551/PORTRAIT/xZhun4lW.png?o=production",
+      "channelName": "ABP Ananda",
+      "channelUrl": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8",
+      "contentId": "abpbangla_tv",
+      "Views": 82
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Hindi",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/c/cf/ABP_Ganga.svg/revision/latest/scale-to-width-down/160?cb=20201222102150",
+      "channelName": "ABP Ganga",
+      "channelUrl": "https://m-c02-j2apps.s.loris.llnwd.net/hls/7017.ABPGanga.in.m3u8",
+      "contentId": "abpganga_tv",
+      "Views": 56
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Gujarati",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_757/PORTRAIT/XIkRbG7f.png?o=production",
+      "channelName": "ABP Asmita",
+      "channelUrl": "https://abp.pc.cdn.bitgravity.com/abp/live/asmita_gujarati.smil/playlist.m3u8",
+      "contentId": "abpgujrati_tv",
+      "Views": 36
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_507/ABP_NEWS_LOGO_HOR_POS_RGB.png?o=production",
+      "channelName": "ABP News",
+      "channelUrl": "https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8",
+      "contentId": "abphindi_tv",
+      "Views": 166
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Marathi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_521/PORTRAIT/AyHVFRSw.png?o=production",
+      "channelName": "ABP Majha",
+      "channelUrl": "https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in.m3u8",
+      "contentId": "abpmarathi_tv",
+      "Views": 1305
+   },
+   {
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDstgrimD69hufJil6r1-nfJslaa3VMESlgg&usqp=CAU",
+      "channelName": "&Xplor HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8",
+      "contentId": "andexplore_hd_channel",
+      "Views": 177
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/&Pictures_HD.png?raw=true",
+      "channelName": "&Pictures HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8",
+      "contentId": "andpics_hd_tv",
+      "Views": 443
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_581/PORTRAIT/1ZpahMbB.png?o=production",
+      "channelName": "&TV HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8",
+      "contentId": "andtv_hd_tv",
+      "Views": 392
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Malayalam",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Asianet_News.png?raw=true",
+      "channelName": "Asianet News",
+      "channelUrl": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
+      "contentId": "asianetnews_ml_tv",
+      "Views": 21
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Kannada",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Asianet_News.png?raw=true",
+      "channelName": "Asianet Suvarna News",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1510",
+      "contentId": "asianetnews_kn_tv",
+      "Views": 21
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://vignette.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/732?cb=20200320100818",
+      "channelName": "B4U Kadak",
+      "channelUrl": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
+      "contentId": "b4ukadak_tv",
+      "Views": 60
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/B4U_Music.png?raw=true",
+      "channelName": "B4U Music",
+      "channelUrl": "http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8",
+      "contentId": "b4umusic_tv",
+      "Views": 149
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_267/PORTRAIT/VNQSlsby.png?o=production",
+      "channelName": "Big Magic",
+      "channelUrl": "https://z5ams.akamaized.net/bigmagic/index.m3u8",
+      "contentId": "bigmagic",
+      "Views": 43
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Tamil",
+      "channelLogo": "https://raw.githubusercontent.com/amjiddader/logo/master/India/Captain_tv.png",
+      "channelName": "Captain TV",
+      "channelUrl": "https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8",
+      "contentId": "captaintv_tv",
+      "Views": 18
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Marathi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDjfGHuLUNvRuQpVuIYBF8xL1NxKmuge8Q0A&usqp=CAU",
+      "channelName": "Classics Marathi",
+      "channelUrl": "https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8",
+      "contentId": "classicsmarathi_tv",
+      "Views": 165
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Tamil",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/3/3f/Polimer-TV-Logo.png",
+      "channelName": "Polimer TV",
+      "channelUrl": "https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8",
+      "contentId": "polimertv",
+      "Views": 165
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "English",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/CNN_News18.png",
+      "channelName": "CNN News18 English",
+      "channelUrl": "https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18vootm/master.m3u8?hdnea=st=1621926639~exp=1621926939~acl=*~id=f504c611-feb0-4c9f-a9d1-eb94c05060fa~hmac=708dd8b2976bb8ebd65f348fa8da214ebee41c67e3a7b3fa6d54ea5585648b41&originpath=/linear/hls/pb/event/61CXTphUTKi1Zj8CEJdUhw/stream/b64449ab-e360-4396-afc9-b89e8a4e7b15:SIN2/master.m3u8",
+      "contentId": "cnnnews18_english",
+      "Views": 20
+   },
+   {
+      "channelCat": "News",
+      "channelCat": "News",
+      "channelLang": "English",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bFlW2c3t1uR6BpIcPTdMvrFenJngtyenCA&usqp=CAU",
+      "channelName": "News 18 Bangla",
+      "channelNews": "Bengali",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/2334",
+      "contentId": "news18bangla",
+      "Views": 20
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Bengali",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Colors_Bengali_HD.png?raw=true",
+      "channelName": "Colors Bangla HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828529/colorsbangla/master.mpd",
+      "contentId": "colorsbangla_hd_tv",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzgiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzYmFuZ2xhX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=BGkG1jAoiQaqfAj3Pn6eRJEWcGY%3d&sessionId=ab922d54-0aaf-2688-0252-65b042e673aa:67881454-4607-a8f9-03d8-93976d00e7f9&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1iYW5nbGEtaGQvODA1OTg4",
+      "Views": 56
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png?o=production",
+      "channelName": "Colors Cineplex HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd",
+      "contentId": "colorscineplex_hd_tv",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzODIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY2luZXBsZXhoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRWJqMzZiaVRMV0wydlVPQjdLdnJvSHB2enJMQjR3T2hPZXV0cTdlcV9Nc2g4enhMQnd5ZUplNHlhWWl4QmFnc19TZFZVWlYyQnlZdkFpZnRiaDBnNDhBa09oTWR2YXRjNE9KVjZ2Mi1rWGVXZjdyNVRPQXR6VXdXaWE3eWJxWGFtTG1TU0lpY3dKbzVGYVJMa2VxNmxIcjVRVDVXMFFXcXVHRTdIdlFEaVBCcnFvTWZQQm9COEUwQS1XU2NrRFQ4dmhuSlRJMUJJLUFodXhMa1Q0V3JYQzlIeTBVdE43T1RKaG01ZEVWbUFzYzhia25MSDBhVFNmRVBwbWtybEQwelFLRDZ2eDctQWhQcHFXYUlWNmV3V09BaENNZFRDWVdtQ3lWbHA2Mnp0OXZtNDlhMFZEc3dYVGRNcUlWMnFIdnFlbFNIQzJnaGt1ZzJrbER1aFpXM242cDBOR05TQ0ZqemRMZzgyLW8yaXpkSmY5S3BUWlRuYnlpbUxrMU9KTW1xREoySktSSHZzSjZVT1VJTkxFT1VxTT0iLCJ1ZGlkIjoiWTJZMkhUWVFYZW55WGdnbVNoVWROSm5vdENuNCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=7lCUWV4xQljKWztt9blJpdG%2b5Ao%3d&sessionId=1d6a8f37-fd81-c215-9320-0c9d86cbf6eb:d75ee1e0-462b-9c66-5a35-b23abbd47d07&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NpbmVwbGV4LWhkLzgwNTk5MA==",
+      "Views": 446
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://etimg.etb2bimg.com/photo/76192361.cms",
+      "channelName": "Colors Cineplex",
+      "channelUrl": "https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8",
+      "contentId": "colorscineplex_tv",
+      "Views": 208
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Gujarati",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_GUJARATI.png",
+      "channelName": "Colors Gujarati",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828532/colorsgujarati/master.mpd",
+      "contentId": "colorsgujarati",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzQ5MzIyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2d1amFyYXRpX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=Qg%2fY0x19L7oD6Ge6gBGiV7zGzVQ%3d&sessionId=dc16e6b4-81cc-1e51-2479-e7c97ffcdc03:3d9fdfb9-333d-4578-6c69-c7fa4f0256e9&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1ndWphcmF0aS85MjMxNTQ=",
+      "Views": 35
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
+      "channelName": "Colors HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net:443/dash/live/828520/colorshd/master.mpd",
+      "contentId": "colorshd_tv",
+      "drmLicense": "https://udrmv3.kaltura.com:443/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFOFlqN2RwTUJuNERTeTFWQ2w0MmQ0SDAyZFhtNS1WSFZXY3VZX2lmN3I0Y0hDcENCN0hMMDBaRlJ1SFJBNTR5dmVLZXg5NENCWTJqNzNUZkNzT0ozdkNzdHRTQVI1QmhoMlNDbU5RSHFoZTFvQWxRUUp3RmxqOWVCTzd3czRab05UQXgtRms3Nmt3T0laajdiamFKblhwWHU3WThQdW1renV1QkR0aWFoV3NaMDE4LURQTUlmelJSYkNpZEVBN3I1QXRmeG02WVZIVnlGTFNVMWpzdy15a1NCcmNueEhoYXMxczNpeW1XWkVoNVBoVmFnakxOckZCNDdRR2hFU09CT3BTV213MzNYUkh4YjhlWDJjOUNTRnNaNzcxaWZDUFRWNDhGRmFZYWZOUTFZMTRnd2E1X2w0SmlnZ3ZPM2gwRG5leEhoNXdqQXJ0cEoxZnN5aldCLXBUUTJZazNjSjdjaFhCX3ItTWJhalQmY29udGV4dFR5cGU9bm9uZSZpZD04ODQyMzcyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFOFlqN2RwTUJuNERTeTFWQ2w0MmQ0SDAyZFhtNS1WSFZXY3VZX2lmN3I0Y0hDcENCN0hMMDBaRlJ1SFJBNTR5dmVLZXg5NENCWTJqNzNUZkNzT0ozdkNzdHRTQVI1QmhoMlNDbU5RSHFoZTFvQWxRUUp3RmxqOWVCTzd3czRab05UQXgtRms3Nmt3T0laajdiamFKblhwWHU3WThQdW1renV1QkR0aWFoV3NaMDE4LURQTUlmelJSYkNpZEVBN3I1QXRmeG02WVZIVnlGTFNVMWpzdy15a1NCcmNueEhoYXMxczNpeW1XWkVoNVBoVmFnakxOckZCNDdRR2hFU09CT3BTV213MzNYUkh4YjhlWDJjOUNTRnNaNzcxaWZDUFRWNDhGRmFZYWZOUTFZMTRnd2E1X2w0SmlnZ3ZPM2gwRG5leEhoNXdqQXJ0cEoxZnN5aldCLXBUUTJZazNjSjdjaFhCX3ItTWJhalQiLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=31BaSrflvGBVRdMf7cuOM1Ha1tk%3d",
+      "Views": 627
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "English",
+      "channelLogo": "data:image/png;base64,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",
+      "channelName": "Colors Infinity HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity1/master.mpd",
+      "contentId": "colorsinfinity_hd",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzQ5NTIwIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2luZmluaXR5X2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ZOBCiWbJiCvGvPHJ9A%2f%2b3K5fqr4%3d&sessionId=7829e2ab-7da2-c556-2cdf-68b19280ead1:9e6bb76d-cdf6-51e5-6f7a-1c0fd45adcc6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1pbmZpbml0eS1oZC81NTM5MTA=",
+      "Views": 35
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Kannada",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_KANNADA.png",
+      "channelName": "Colors Kannada HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828525/kannada1/master.mpd",
+      "contentId": "colorskannada_hd_tv",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEwNjgyOTE2IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2thbm5hZGFoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRWJqMzZiaVRMV0wydlVPQjdLdnJvSHB2enJMQjR3T2hPZXV0cTdlcV9Nc2g4enhMQnd5ZUplNHlhWWl4QmFnc19TZFZVWlYyQnlZdkFpZnRiaDBnNDhBa09oTWR2YXRjNE9KVjZ2Mi1rWGVXZjdyNVRPQXR6VXdXaWE3eWJxWGFtTG1TU0lpY3dKbzVGYVJMa2VxNmxIcjVRVDVXMFFXcXVHRTdIdlFEaVBCcnFvTWZQQm9COEUwQS1XU2NrRFQ4dmhuSlRJMUJJLUFodXhMa1Q0V3JYQzlIeTBVdE43T1RKaG01ZEVWbUFzYzhia25MSDBhVFNmRVBwbWtybEQwelFLRDZ2eDctQWhQcHFXYUlWNmV3V09BaENNZFRDWVdtQ3lWbHA2Mnp0OXZtNDlhMFZEc3dYVGRNcUlWMnFIdnFlbFNIQzJnaGt1ZzJrbER1aFpXM242cDBOR05TQ0ZqemRMZzgyLW8yaXpkSmY5S3BUWlRuYnlpbUxrMU9KTW1xREoySktSSHZzSjZVT1VJTkxFT1VxTT0iLCJ1ZGlkIjoiWTJZMkhUWVFYZW55WGdnbVNoVWROSm5vdENuNCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=KGWF27p%2bqDy9%2fSzMuvsOno5p%2brE%3d&sessionId=2d53ccf6-2d7f-bf61-1f3c-b4bc82a0a560:0a4abb59-14c8-d1a6-0944-f4490a9c0b19&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1rYW5uYWRhLzkxMTY1NA==",
+      "Views": 281
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Marathi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000042640000/ic_logo_Colors_Marathi_HD_WB.png?o=production",
+      "channelName": "Colors Marathi HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828522/colorsmarathi/master.mpd",
+      "contentId": "colorsmarathi_hd_tv",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZQemEzRzlTZzhLVFJMWWJrNkNrQ0FTRk1EM2hzZ1NMUXByS0FvMmVNTHZhQmxwaU94X0N5b29sWWtwUWNDZ01DRHRQNjdSa2FNSHNkOURhdzRwOF82eF9EZ2E4a0x4RjdyUFR2elZQeGxVWVJncnhRb1ZlaHB2OGJVdmljNTFhMnNzSUROS2dfRzdsS0poenNodjl2aFVqNk9xWkl0YW9IYi1MTFRMZWF3eDJHeWc1THFsbDVlRTJsNjVvV3pad242TWV4X2pSQ0hwNV9jTFU0YURpWUcwV3A3N1VvNF9oSmxlTXBnM2gwUjc0SElaaGh2WW9KeGlhQTNadmQyTUVLSnd2TDN3aXRHWTl1ZF9jTWt3UFZfeW96MlZ4SDJENjFSU2pubTRmSmNQTXJHOFFONjhtZWlNaGN0ZHctSTBidmw5NWdCTjVLUnRYLS1yUlIyMDZUdTcybWhuaG5TRUliaEtEc3VJX1JXbzlJdVFhdTZBXzRIZ0dKeUZkRHh0ellsdE9EWnlNX0lkUmx4LTJuRFVxS01YVU8ybjEwek5lSTFNajRxcUVxcU5Bc0M5TGZkeXdvN25uc282WmdzYkFWZVNxd0hycFBqakdwNGo2R2xvU1Q1T1FlTXUtS01RcjRTOTVfTHRxUE5keU9rd2VCR3JGUVB6bUw3ZFB0MHRlVmc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTgxNDE5MDkiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzbWFyYXRoaV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmUHphM0c5U2c4S1RSTFliazZDa0NBU0ZNRDNoc2dTTFFwcktBbzJlTUx2YUJscGlPeF9DeW9vbFlrcFFjQ2dNQ0R0UDY3UmthTUhzZDlEYXc0cDhfNnhfRGdhOGtMeEY3clBUdnpWUHhsVVlSZ3J4UW9WZWhwdjhiVXZpYzUxYTJzc0lETktnX0c3bEtKaHpzaHY5dmhVajZPcVpJdGFvSGItTExUTGVhd3gyR3lnNUxxbGw1ZUUybDY1b1d6WnduNk1leF9qUkNIcDVfY0xVNGFEaVlHMFdwNzdVbzRfaEpsZU1wZzNoMFI3NEhJWmhodllvSnhpYUEzWnZkMk1FS0p3dkwzd2l0R1k5dWRfY01rd1BWX3lvejJWeEgyRDYxUlNqbm00ZkpjUE1yRzhRTjY4bWVpTWhjdGR3LUkwYnZsOTVnQk41S1J0WC0tclJSMjA2VHU3Mm1obmhuU0VJYmhLRHN1SV9SV285SXVRYXU2QV80SGdHSnlGZER4dHpZbHRPRFp5TV9JZFJseC0ybkRVcUtNWFVPMm4xMHpOZUkxTWo0cXFFcXFOQXNDOUxmZHl3bzdubnNvNlpnc2JBVmVTcXdIcnBQampHcDRqNkdsb1NUNU9RZU11LUtNUXI0Uzk1X0x0cVBOZHlPa3dlQkdyRlFQem1MN2RQdDB0ZVZnPT0iLCJ1ZGlkIjoiWTJZMkhUWVFYZW55WGdnbVNoVWROSm5vdENuNCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=kqNQgOX41gDRO2CvNFXko2bp8VY%3d&sessionId=dd2fb772-b4ca-8636-a14c-11a0b20f34cf:b898f329-f87f-6ad6-54b0-6cfe26de4a7b&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1tYXJhdGhpLWhkLzc5MzkzMA==",
+      "Views": 1285
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/Live-Tv-Channels-colors-rishtey-1606037051359.jpg",
+      "channelName": "Colors Rishtey",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd",
+      "contentId": "colorsrishtey_tv",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=5nrez3UFHxAM%2bked8HdBQRSCuQU%3d&sessionId=781c3659-b1bb-5e88-eb9a-0bb4c1d17499:397e7029-1c03-0fc1-5552-14b8dee9aaac&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1yaXNodGV5LzgzNzg3NA==",
+      "Views": 326
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Kannada",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_SUPER.png",
+      "channelName": "Colors Super",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828527/colorssuper/master.mpd",
+      "contentId": "colorssuper",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzU0NDU2IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc3N1cGVyX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=p5eSEuNNEud%2bQhVKYokVlm63XFA%3d&sessionId=c8a7377c-a607-540e-a145-95de02fbd03a:e4d872a3-b8d4-16aa-ea80-77b93546efdf&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1zdXBlci85MjM1NTU=",
+      "Views": 162
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Tamil",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/channel-logos/COLORS_TAMIL.png",
+      "channelName": "Colors Tamil HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd",
+      "contentId": "colorstamil_hd_tv",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRWJqMzZiaVRMV0wydlVPQjdLdnJvSHB2enJMQjR3T2hPZXV0cTdlcV9Nc2g4enhMQnd5ZUplNHlhWWl4QmFnc19TZFZVWlYyQnlZdkFpZnRiaDBnNDhBa09oTWR2YXRjNE9KVjZ2Mi1rWGVXZjdyNVRPQXR6VXdXaWE3eWJxWGFtTG1TU0lpY3dKbzVGYVJMa2VxNmxIcjVRVDVXMFFXcXVHRTdIdlFEaVBCcnFvTWZQQm9COEUwQS1XU2NrRFQ4dmhuSlRJMUJJLUFodXhMa1Q0V3JYQzlIeTBVdE43T1RKaG01ZEVWbUFzYzhia25MSDBhVFNmRVBwbWtybEQwelFLRDZ2eDctQWhQcHFXYUlWNmV3V09BaENNZFRDWVdtQ3lWbHA2Mnp0OXZtNDlhMFZEc3dYVGRNcUlWMnFIdnFlbFNIQzJnaGt1ZzJrbER1aFpXM242cDBOR05TQ0ZqemRMZzgyLW8yaXpkSmY5S3BUWlRuYnlpbUxrMU9KTW1xREoySktSSHZzSjZVT1VJTkxFT1VxTT0iLCJ1ZGlkIjoiWTJZMkhUWVFYZW55WGdnbVNoVWROSm5vdENuNCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=xKgGDTF5plWRfeMYTOM%2faXBH%2bqQ%3d&sessionId=d2f500e1-5c56-5cec-9294-3eaecdfea65e:e16cc9e0-41c3-00cb-20ad-a7ce45ec2d02&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy10YW1pbC1oZC84MDU5ODY=",
+      "Views": 243
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "English",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/live-tv-channels-cc-hd-1606037316791-1620577516088.webp",
+      "channelName": "Comedy Central HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd",
+      "contentId": "comedycentral_hd_tv",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTQ1MzM3OTgiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29tZWR5Y2VudHJhbF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRWJqMzZiaVRMV0wydlVPQjdLdnJvSHB2enJMQjR3T2hPZXV0cTdlcV9Nc2g4enhMQnd5ZUplNHlhWWl4QmFnc19TZFZVWlYyQnlZdkFpZnRiaDBnNDhBa09oTWR2YXRjNE9KVjZ2Mi1rWGVXZjdyNVRPQXR6VXdXaWE3eWJxWGFtTG1TU0lpY3dKbzVGYVJMa2VxNmxIcjVRVDVXMFFXcXVHRTdIdlFEaVBCcnFvTWZQQm9COEUwQS1XU2NrRFQ4dmhuSlRJMUJJLUFodXhMa1Q0V3JYQzlIeTBVdE43T1RKaG01ZEVWbUFzYzhia25MSDBhVFNmRVBwbWtybEQwelFLRDZ2eDctQWhQcHFXYUlWNmV3V09BaENNZFRDWVdtQ3lWbHA2Mnp0OXZtNDlhMFZEc3dYVGRNcUlWMnFIdnFlbFNIQzJnaGt1ZzJrbER1aFpXM242cDBOR05TQ0ZqemRMZzgyLW8yaXpkSmY5S3BUWlRuYnlpbUxrMU9KTW1xREoySktSSHZzSjZVT1VJTkxFT1VxTT0iLCJ1ZGlkIjoiWTJZMkhUWVFYZW55WGdnbVNoVWROSm5vdENuNCIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=gEvfOyvC%2bG0dfMq2SPMeUNpLkbw%3d&sessionId=f0d5751f-86d6-5846-54b5-79216952d418:b920ba1e-7c45-a424-9ca9-db387b667d0e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbWVkeS1jZW50cmFsLWhkLzU1MzkxMQ==",
+      "Views": 144
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Bhojpuri",
+      "channelLogo": "https://raw.githubusercontent.com/amjiddader/logo/master/India/Dabangg.png",
+      "channelName": "Dabangg",
+      "channelUrl": "https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8",
+      "contentId": "dabangg_tv",
+      "Views": 24
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-250/list/09250ddnationalhd.jpg",
+      "channelName": "DD National HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/061be0ece7a849939ac2d9031f8fc532/index.m3u8",
+      "contentId": "ddnational_hd_tv",
+      "Views": 42
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Bengali",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrm80z9yYa12PUUtu5NOYNW4e9De_9BKdfQ&usqp=CAU",
+      "channelName": "DD Bangla",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/2332",
+      "contentId": "ddbangla",
+      "Views": 42
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Telugu",
+      "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_267,h_147,c_scale,f_auto,q_auto/resources/0-9-ddyadagiri/channel_list/09ddyadagiriddyadagiri.png",
+      "channelName": "DD Yadagiri",
+      "channelUrl": "https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8",
+      "contentId": "ddyadagiri",
+      "Views": 42
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/DD_National.png?raw=true",
+      "channelName": "DD National",
+      "channelUrl": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_288p/index.m3u8",
+      "contentId": "ddnational_tv",
+      "Views": 33
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBWd-k7P2Hx0mhfHspcA1C80Br-P_x2HA7FA&usqp=CAU",
+      "channelName": "DD Retro",
+      "channelUrl": "https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index.m3u8",
+      "contentId": "ddretro_tv",
+      "Views": 20
+   },
+   {
+      "channelCat": "Infotainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://i.pinimg.com/originals/ef/79/10/ef79106ab63be3349c8f49d1169fc1c9.png",
+      "channelName": "Discovery Hindi",
+      "channelUrl": "https://d3ojtyqvwc3vcz.cloudfront.net/DISC.m3u8",
+      "contentId": "discovery Hindi",
+      "Views": 1394
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRp5WeiYihX4_ydgswo1XEyIw5wPi-FvgAhrQ&usqp=CAU",
+      "channelName": "Filmy",
+      "channelUrl": "https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8",
+      "contentId": "filmy_tv",
+      "Views": 132
+   },
+   {
+      "channelCat": "",
+      "channelLang": "English",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGZlI_8I6K7uZJxAOsbDQ1GqtNTe8etze_Ka4LDWKgvY101hED5lVw_zA&s=10",
+      "channelName": "G TV HD",
+      "channelUrl": "https://prod-ec-ap-northeast-1.video.periscope.tv/Transcoding/v1/hls/RcvUJvAUrUvMFRBeHbC-J_nWm7df1ZE4WDb0HYBXjKNVXfMqV8I5oXjrxHFWypIIS69nw_7DmZNuK_mA1yaybg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/dynamic_hlsproducer.m3u8?type=live",
+      "contentId": "gtv_hd_tv",
+      "Views": 139
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://firebasestorage.googleapis.com/v0/b/fir-b876b.appspot.com/o/FireVideo%2FTV%2Fimages%20-%202020-09-15T020715.099.jpeg?alt=media&token=9245bd78-31ca-4c27-bd04-5611ee09ff8f",
+      "channelName": "iLove",
+      "channelUrl": "https://flametvadmin.tk/merimaakichutmeflametvadminskalundghusega.php?c=iLove&q=800",
+      "contentId": "ilove_tv",
+      "Views": 216
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://cdn.tvpassport.com/image/station/240x135/willowtv.png",
+      "channelName": "Willow Cricket",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/517",
+      "contentId": "willowcricket",
+      "Views": 280
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "Telugu",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0rsrC2smz5Eoua3ZD2QZyjEYADQ3lx9XW8sfT4rDwlyIRu8z-lvKf8U8&s=10",
+      "channelName": "Star Sports Telugu",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/500",
+      "contentId": "sstelugu",
+      "keywords": "star sports, star sports hindi, star sports 1 hindi, ss 1 hindi, star sports cricket, star sports ipl",
+      "Views": 57
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVC2xEGyiUPpM_z5LLjZaUFd3VqmPOiq4XVJfocPThdSYC1a_m_TvRtjzQ&s=10",
+      "channelName": "Star Sports Select 1 HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1125",
+      "contentId": "ssselect1hd",
+      "keywords": "star sports, star sports hindi, star sports 1 hindi, ss 1 hindi, star sports cricket, star sports ipl",
+      "Views": 57
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3DiayKx4TtTZbFOp1qDNKO-MS9RlAGWrU-ouHVJyT2ufbaXhii9R0-Zft&s=10",
+      "channelName": "Star Sports Select 2 HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1315",
+      "contentId": "ssselect2hd",
+      "keywords": "star sports, star sports hindi, star sports 1 hindi, ss 1 hindi, star sports cricket, star sports ipl",
+      "Views": 57
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "Bengali",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60Ybe9bJDcNOuFbKhQmxWmEXqOICnZwnOlgj_1PqP5UZNmuzKSH75sss&s=10",
+      "channelName": "Star Sports Bangla",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/502",
+      "contentId": "ssbangla",
+      "keywords": "star sports, star sports hindi, star sports 1 hindi, ss 1 hindi, star sports cricket, star sports ipl",
+      "Views": 57
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "Tamil",
+      "channelLogo": "https://www.insidesport.co/wp-content/uploads/2017/05/star-sprts-tamil-e1496057710686.png",
+      "channelName": "Star Sports Tamil",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1529",
+      "contentId": "sstamil",
+      "keywords": "star sports, star sports hindi, star sports 1 hindi, ss 1 hindi, star sports cricket, star sports ipl",
+      "Views": 57
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "Kannada",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMDG0DEl-IvCP9qhINWQOON9a2jNG88c1ee3QZq_kdO4Hm3FZE2IgVFzG&s=10",
+      "channelName": "Star Sports Kannada",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/501",
+      "contentId": "sskannada",
+      "Views": 100
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHAU6tD_j_ab6hj42g1QYWEeHuGksJymigeA&usqp=CAU",
+      "channelName": "Star Sports 2 HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1066",
+      "contentId": "ss2hd",
+      "Views": 132
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Tamil",
+      "channelLogo": "https://vignette.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/201/window-height/200?cb=20191224121230",
+      "channelName": "Isai Aruvi",
+      "channelUrl": "https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in.m3u8",
+      "contentId": "isaiaruvi_tv",
+      "Views": 31
+   },
+   {
+      "channelCat": "Entertainment, Movies",
+      "channelLang": "Malayalam",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Kairali_TV.png?raw=true",
+      "channelName": "Kairali TV",
+      "channelUrl": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+      "contentId": "kairali_tv",
+      "Views": 9
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Tamil",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_588/PORTRAIT/2uHeVd1H.png?o=production",
+      "channelName": "Kalaignar TV",
+      "channelUrl": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8",
+      "contentId": "kalaignar_tv",
+      "Views": 72
+   },
+   {
+      "channelLang": "Odia",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5QXQpHvaEkj7_9_D4QqpnNzjnN4ChAPnNA&usqp=CAU",
+      "channelName": "Zee Kalinga News",
+      "channelUrl": "https://z5ams.akamaized.net/kalinga/index.m3u8",
+      "contentId": "kalinganews_channel",
+      "Views": 11
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Marathi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Maiboli.png?raw=true",
+      "channelName": "Maiboli",
+      "channelUrl": "https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in.m3u8",
+      "contentId": "maiboli_tv",
+      "Views": 61
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Mastiii.png?raw=true",
+      "channelName": "Mastiii",
+      "channelUrl": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8",
+      "contentId": "mastiii_tv",
+      "Views": 1540
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Malayalam",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/6/60/Mazhavil-Manorama.jpg",
+      "channelName": "Mazhavil Manorama",
+      "channelUrl": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8",
+      "contentId": "mazhavilmanorama_tv",
+      "Views": 31
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000048710000/PORTRAIT/MJZdklJi.png?o=production",
+      "channelName": "MTV Beats HD",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd",
+      "contentId": "mtv_beats_tv",
+      "drmLicense": "https://udrmv3.kaltura.com:443/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFOFlqN2RwTUJuNERTeTFWQ2w0MmQ0SDAyZFhtNS1WSFZXY3VZX2lmN3I0Y0hDcENCN0hMMDBaRlJ1SFJBNTR5dmVLZXg5NENCWTJqNzNUZkNzT0ozdkNzdHRTQVI1QmhoMlNDbU5RSHFoZTFvQWxRUUp3RmxqOWVCTzd3czRab05UQXgtRms3Nmt3T0laajdiamFKblhwWHU3WThQdW1renV1QkR0aWFoV3NaMDE4LURQTUlmelJSYkNpZEVBN3I1QXRmeG02WVZIVnlGTFNVMWpzdy15a1NCcmNueEhoYXMxczNpeW1XWkVoNVBoVmFnakxOckZCNDdRR2hFU09CT3BTV213MzNYUkh4YjhlWDJjOUNTRnNaNzcxaWZDUFRWNDhGRmFZYWZOUTFZMTRnd2E1X2w0SmlnZ3ZPM2gwRG5leEhoNXdqQXJ0cEoxZnN5aldCLXBUUTJZazNjSjdjaFhCX3ItTWJhalQmY29udGV4dFR5cGU9bm9uZSZpZD04ODQyMzcyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFOFlqN2RwTUJuNERTeTFWQ2w0MmQ0SDAyZFhtNS1WSFZXY3VZX2lmN3I0Y0hDcENCN0hMMDBaRlJ1SFJBNTR5dmVLZXg5NENCWTJqNzNUZkNzT0ozdkNzdHRTQVI1QmhoMlNDbU5RSHFoZTFvQWxRUUp3RmxqOWVCTzd3czRab05UQXgtRms3Nmt3T0laajdiamFKblhwWHU3WThQdW1renV1QkR0aWFoV3NaMDE4LURQTUlmelJSYkNpZEVBN3I1QXRmeG02WVZIVnlGTFNVMWpzdy15a1NCcmNueEhoYXMxczNpeW1XWkVoNVBoVmFnakxOckZCNDdRR2hFU09CT3BTV213MzNYUkh4YjhlWDJjOUNTRnNaNzcxaWZDUFRWNDhGRmFZYWZOUTFZMTRnd2E1X2w0SmlnZ3ZPM2gwRG5leEhoNXdqQXJ0cEoxZnN5aldCLXBUUTJZazNjSjdjaFhCX3ItTWJhalQiLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=31BaSrflvGBVRdMf7cuOM1Ha1tk%3d",
+      "Views": 719
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/1200px-MTV_HD_Logo_2013.svg.png",
+      "channelName": "MTV HD+",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd",
+      "contentId": "mtvhdplus",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzODAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoibXR2aGRMaXZlX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSIsInVkaWQiOiJZMlkySFRZUVhlbnlYZ2dtU2hVZE5Kbm90Q240IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=Z7kk0wbEpc4VJmlEM7i8AbzUEiQ%3d&sessionId=fdd84e96-c3bb-86b8-11d2-08eabcdd1f9c:56d829a4-4e83-020b-5f32-dd2c0f6fb3ea&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL210di1oZC84MDU5ODk=",
+      "Views": 290
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Music_India.png?raw=true",
+      "channelName": "Music India",
+      "channelUrl": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8",
+      "contentId": "musicindia_tv",
+      "Views": 659
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Bengali",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJwuGCFj-YT0XjVL7TZCJMAy4lI3Jue_hLw&usqp=CAU",
+      "channelName": "News 18 Bangla",
+      "channelUrl": "https://news18banglavoot-lh.akamaihd.net/i/n18bangla_1@2289/master.m3u8",
+      "contentId": "news18bangla",
+      "Views": 31
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Gujarati",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvmw9EOmq6fAkp_sfXnAHc8uAP6ajd664pIg&usqp=CAU",
+      "channelName": "News 18 Gujarati",
+      "channelUrl": "https://news18gujvoot.akamaized.net/i/n18gujarat_1@370955/master.m3u8?hdnts=exp=1621957303~acl=/*~hmac=c637f0a2830d19ca4caccb623620c479ad4e6be3dd25b1ad7f623a9826628749",
+      "contentId": "news18gujarati",
+      "Views": 32
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Hindi",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/news-1587300049816.jpg",
+      "channelName": "News 18 India",
+      "channelUrl": "https://vootlive-i.akamaihd.net/hls/live/801843/news18indiavoot/master.m3u8?hdnea=st=1621926006~exp=1621926306~acl=*~id=b7988c39-76e4-4323-a216-34081e1ff945~hmac=7732950ea182d41cf7da13f55fdfa615c4a075ed4953ebc329b916623975173d&originpath=/linear/hls/pb/event/IfNWMtfCR-ukVIFZQiV-fg/stream/ddae8da1-b746-4158-9c81-0fee466c049b:SIN2/master.m3u8",
+      "contentId": "news18india",
+      "Views": 145
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Kannada",
+      "channelLogo": "https://v3img.voot.com/dimg2/cmsdev/include/upload/si-images/1531815470_News18-Kannada_1_1_500x500.png",
+      "channelName": "News 18 Kannada",
+      "channelUrl": "https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on",
+      "contentId": "news18kn_kn_tv",
+      "Views": 24
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Marathi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News18_Lokmat.png?raw=true",
+      "channelName": "News 18 Lokmat",
+      "channelUrl": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8",
+      "contentId": "news18marathi_tv",
+      "Views": 137
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/News_24.png?raw=true",
+      "channelName": "News 24",
+      "channelUrl": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8",
+      "contentId": "news24_tv",
+      "Views": 93
+   },
+   {
+      "channelCat": "Kids",
+      "channelLang": "Hindi",
+      "channelLogo": "https://v3img.voot.com/resizeMedium,w_300,h_300/v3Storage/assets/Live-Tv-Channels-nick-jr-1606037359082.jpg",
+      "channelName": "Nick Jr",
+      "channelUrl": "https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd",
+      "contentId": "nickjr_tv",
+      "drmLicense": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFYmozNmJpVExXTDJ2VU9CN0t2cm9IcHZ6ckxCNHdPaE9ldXRxN2VxX01zaDh6eExCd3llSmU0eWFZaXhCYWdzX1NkVlVaVjJCeVl2QWlmdGJoMGc0OEFrT2hNZHZhdGM0T0pWNnYyLWtYZVdmN3I1VE9BdHpVd1dpYTd5YnFYYW1MbVNTSWljd0pvNUZhUkxrZXE2bEhyNVFUNVcwUVdxdUdFN0h2UURpUEJycW9NZlBCb0I4RTBBLVdTY2tEVDh2aG5KVEkxQkktQWh1eExrVDRXclhDOUh5MFV0TjdPVEpobTVkRVZtQXNjOGJrbkxIMGFUU2ZFUHBta3JsRDB6UUtENnZ4Ny1BaFBwcVdhSVY2ZXdXT0FoQ01kVENZV21DeVZscDYyenQ5dm00OWEwVkRzd1hUZE1xSVYycUh2cWVsU0hDMmdoa3VnMmtsRHVoWlczbjZwME5HTlNDRmp6ZExnODItbzJpemRKZjlLcFRaVG5ieWltTGsxT0pNbXFESjJKS1JIdnNKNlVPVUlOTEVPVXFNPSZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzQ4OTQ3IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6Im5pY2tqdW5pb3JfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkViajM2YmlUTFdMMnZVT0I3S3Zyb0hwdnpyTEI0d09oT2V1dHE3ZXFfTXNoOHp4TEJ3eWVKZTR5YVlpeEJhZ3NfU2RWVVpWMkJ5WXZBaWZ0YmgwZzQ4QWtPaE1kdmF0YzRPSlY2djIta1hlV2Y3cjVUT0F0elV3V2lhN3licVhhbUxtU1NJaWN3Sm81RmFSTGtlcTZsSHI1UVQ1VzBRV3F1R0U3SHZRRGlQQnJxb01mUEJvQjhFMEEtV1Nja0RUOHZobkpUSTFCSS1BaHV4TGtUNFdyWEM5SHkwVXRON09USmhtNWRFVm1Bc2M4YmtuTEgwYVRTZkVQcG1rcmxEMHpRS0Q2dng3LUFoUHBxV2FJVjZld1dPQWhDTWRUQ1lXbUN5VmxwNjJ6dDl2bTQ5YTBWRHN3WFRkTXFJVjJxSHZxZWxTSEMyZ2hrdWcya2xEdWhaVzNuNnAwTkdOU0NGanpkTGc4Mi1vMml6ZEpmOUtwVFpUbmJ5aW1MazFPSk1tcURKMkpLUkh2c0o2VU9VSU5MRU9VcU09IiwidWRpZCI6IlkyWTJIVFlRWGVueVhnZ21TaFVkTkpub3RDbjQiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=s%2f2ybrSMeJElGGOMeq%2fTj3Edirk%3d&sessionId=7727abe5-7c70-c0e0-eda7-7e26e6bb39e3:f3f491f1-af0d-1ecb-475a-ef2bbd46d73c&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL25pY2stanIvNTUzOTA5",
+      "Views": 276
+   },
+   {
+      "channelLang": "Punjabi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_619/PORTRAIT/4i3LNHhu.png?o=production",
+      "channelName": "Pitaara",
+      "channelUrl": "https://m-c16-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8",
+      "contentId": "pitaara_hi_channel",
+      "Views": 114
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
+      "channelName": "PTV Sports",
+      "channelUrl": "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+      "contentId": "ptvsports",
+      "Views": 11224
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Kannada",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",
+      "channelName": "Public Music",
+      "channelUrl": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8",
+      "contentId": "publicmusic_kannada",
+      "Views": 29
+   },
+   {
+      "channelCat": "",
+      "channelLang": "English",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg",
+      "channelName": "RSS English",
+      "channelUrl": "https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/225/assetId/924359/assetType/media/assetFileId/10769131/contextType/PLAYBACK/ks/djJ8MjI1fM4QmjdWX8y0_IYyT-zEVILrZwi7rulUjSk7pMe3GRis31UHtyk-YwPpNzk31ZHpCQEG2WAhISMn8a2ortnH3_hrYT7wXr66390pC_tT4IHTcMtk-rxgQDkRjZMpuEe0z2n7Msj8N-Mjd44jqEmroPDG6AO_SiR9r6GEJf34333Dx9MMrJ6gIOPEGSw8CuqlxK_lxkKU_U5ZYOXxBYIG2paNmPlrr3fVMOFok95AsGQb4pm9yEQG5O8sAs7qzGi8EqPLpV8lctRsV7HgQ2SYwZgT098QewhG3CJEwJ6ySRahlAcBTKNnmgh91k1DDClP9ih6l2Ia2kAVv7n1BdL-eFYnuPLxtdSM9iGGGmi5V7V5PZsUOfPDbtKglBeDnS51iXVKpLdZbKZrscrP4ft_WX8va7ETKOtGGq85mzgXBHoqxRzQgbKI_pvqyAvgdWvYD7W0W8HS5Y-J6QygmFOEgquk9A9ixRuDLr3Pm249nch9-VssBoZW1svTygKywuSbLg==/a.m3u8",
+      "contentId": "rsseries_en_channel",
+      "Views": 39
+   },
+   {
+      "channelCat": "",
+      "channelLang": "Hindi",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg",
+      "channelName": "RSS Hindi",
+      "channelUrl": "https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/225/assetId/923971/assetType/media/assetFileId/10762476/contextType/PLAYBACK/ks/djJ8MjI1fM4QmjdWX8y0_IYyT-zEVILrZwi7rulUjSk7pMe3GRis31UHtyk-YwPpNzk31ZHpCQEG2WAhISMn8a2ortnH3_hrYT7wXr66390pC_tT4IHTcMtk-rxgQDkRjZMpuEe0z2n7Msj8N-Mjd44jqEmroPDG6AO_SiR9r6GEJf34333Dx9MMrJ6gIOPEGSw8CuqlxK_lxkKU_U5ZYOXxBYIG2paNmPlrr3fVMOFok95AsGQb4pm9yEQG5O8sAs7qzGi8EqPLpV8lctRsV7HgQ2SYwZgT098QewhG3CJEwJ6ySRahlAcBTKNnmgh91k1DDClP9ih6l2Ia2kAVv7n1BdL-eFYnuPLxtdSM9iGGGmi5V7V5PZsUOfPDbtKglBeDnS51iXVKpLdZbKZrscrP4ft_WX8va7ETKOtGGq85mzgXBHoqxRzQgbKI_pvqyAvgdWvYD7W0W8HS5Y-J6QygmFOEgquk9A9ixRuDLr3Pm249nch9-VssBoZW1svTygKywuSbLg==/a.m3u8",
+      "contentId": "rsseries_hi_channel",
+      "Views": 100
+   },
+   {
+      "channelCat": "",
+      "channelLang": "Kannada",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg",
+      "channelName": "RSS Kannada",
+      "channelUrl": "https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/225/assetId/924361/assetType/media/assetFileId/10769208/contextType/PLAYBACK/ks/djJ8MjI1fM4QmjdWX8y0_IYyT-zEVILrZwi7rulUjSk7pMe3GRis31UHtyk-YwPpNzk31ZHpCQEG2WAhISMn8a2ortnH3_hrYT7wXr66390pC_tT4IHTcMtk-rxgQDkRjZMpuEe0z2n7Msj8N-Mjd44jqEmroPDG6AO_SiR9r6GEJf34333Dx9MMrJ6gIOPEGSw8CuqlxK_lxkKU_U5ZYOXxBYIG2paNmPlrr3fVMOFok95AsGQb4pm9yEQG5O8sAs7qzGi8EqPLpV8lctRsV7HgQ2SYwZgT098QewhG3CJEwJ6ySRahlAcBTKNnmgh91k1DDClP9ih6l2Ia2kAVv7n1BdL-eFYnuPLxtdSM9iGGGmi5V7V5PZsUOfPDbtKglBeDnS51iXVKpLdZbKZrscrP4ft_WX8va7ETKOtGGq85mzgXBHoqxRzQgbKI_pvqyAvgdWvYD7W0W8HS5Y-J6QygmFOEgquk9A9ixRuDLr3Pm249nch9-VssBoZW1svTygKywuSbLg==/a.m3u8",
+      "contentId": "rsseries_kn_channel",
+      "Views": 43
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Marathi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Saam_Tv.png?raw=true",
+      "channelName": "Saam TV",
+      "channelUrl": "https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in.m3u8",
+      "contentId": "saam_tv",
+      "Views": 280
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Bengali",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Sangeet_Bangla.png?raw=true",
+      "channelName": "Sangeet Bangla",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/541",
+      "contentId": "sangeetbangla_tv",
+      "Views": 43
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Bhojpuri",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Sangeet_Bhojpuri.png?raw=true",
+      "channelName": "Sangeet Bhojpuri",
+      "channelUrl": "https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in.m3u8",
+      "contentId": "sangeetbhojpuri_tv",
+      "Views": 40
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Marathi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Sangeet_Marathi.png?raw=true",
+      "channelName": "Sangeet Marathi",
+      "channelUrl": "https://m-c02-j2apps.s.loris.llnwd.net/hls/3724.SangeetMarathi.in.m3u8",
+      "contentId": "sangeetmarathi_tv",
+      "Views": 85
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Marathi",
+      "channelLogo": "https://firebasestorage.googleapis.com/v0/b/fir-b876b.appspot.com/o/FireVideo%2FTV%2FShemaroo%2Fimages%20-%202020-09-15T014625.419.jpeg?alt=media&token=0f7b7b46-d4be-4760-99cc-d2443c89974a",
+      "channelName": "Shemaroo Marathibana",
+      "channelUrl": "https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8",
+      "contentId": "shemaroomarathi_tv",
+      "Views": 677
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://thenewsstrike.com/wp-content/uploads/2019/08/showbox_3.jpg",
+      "channelName": "Show Box",
+      "channelUrl": "https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8",
+      "contentId": "showbox_tv",
+      "Views": 71
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Sony_HD.png?raw=true",
+      "channelName": "Sony HD",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8",
+      "contentId": "sony_hd_tv",
+      "Views": 1858
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Bengali",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/215x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_596/PORTRAIT/6c233a7a-22fa-4acb-b46b-13df62f2e90a.jpg?o=production",
+      "channelName": "Sony Aath",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
+      "contentId": "sonyaath_bn_channel",
+      "Views": 49
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Marathi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1011/PORTRAIT/856VeehA.png?o=production",
+      "channelName": "Sony Marathi",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8?HjFreeTV=MARATHI",
+      "contentId": "sonymarathi_tv",
+      "Views": 994
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Sony_MAX_2.png?raw=true",
+      "channelName": "Sony MAX 2",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
+      "contentId": "sonymax2_tv",
+      "Views": 272
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Sony_MAX_HD.png?raw=true",
+      "channelName": "Sony Max HD",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
+      "contentId": "sonymax_hd_tv",
+      "Views": 1331
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png",
+      "channelName": "Sony Max",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8?HjFreeTV=MAXSD",
+      "contentId": "sonymax_sd_tv",
+      "Views": 1121
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Sony_Pal.png?raw=true",
+      "channelName": "Sony Pal",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
+      "contentId": "sonypal_tv",
+      "Views": 198
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "English",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/215x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_929/ic_logo_sonyPIX_HD.png?o=production",
+      "channelName": "Sony Pix HD",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD",
+      "contentId": "sonypix_hd_channel",
+      "Views": 195
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Sony_SAB_HD.png?raw=true",
+      "channelName": "Sony SAB HD",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD",
+      "contentId": "sonysab_hd_tv",
+      "Views": 1356
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:eco/https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png",
+      "channelName": "Sony SIX HD",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+      "contentId": "sonysix_hd_tv",
+      "Views": 808
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:eco/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",
+      "channelName": "Sony Ten 1 HD",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?HjFreeTV=TEN1HD",
+      "contentId": "sonyten1_hd_tv",
+      "Views": 1524
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQw0sM8uggrPl0O2lvUtJRLPohqCdBGD-Ww&usqp=CAU",
+      "channelName": "WWE Network",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/526",
+      "contentId": "wwenetwork",
+      "Views": 1524
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "Hindi",
+      "channelLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",
+      "channelName": "Sony Ten 2 HD",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?HjFreeTV=TEN2HD",
+      "contentId": "sonyten2_hd_tv",
+      "Views": 324
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "Hindi",
+      "channelLogo": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:eco/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png",
+      "channelName": "Sony Ten 3 HD",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8?HjFreeTV=TEN3HD",
+      "contentId": "sonyten3_hd_tv",
+      "Views": 1231
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "Tamil",
+      "channelLogo": "https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png",
+      "channelName": "Sony Ten 4 HD",
+      "channelUrl": "https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8",
+      "contentId": "sonyten4_hd_tv",
+      "Views": 382
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_893/PORTRAIT/2zPS8kkZ.png?o=production",
+      "channelName": "Sony Wah",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
+      "contentId": "sonywah_tv",
+      "Views": 184
+   },
+   {
+      "channelCat": "Kids",
+      "channelLang": "Hindi",
+      "channelLogo": "https://www.adgully.com/img/800/201907/sony-yay.jpg",
+      "channelName": "Sony YAY",
+      "channelUrl": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
+      "contentId": "sonyyay_tv",
+      "Views": 221
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "English",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png",
+      "channelName": "Star Sports 1 HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1063",
+      "contentId": "ss1hd_channel",
+      "keywords": "star sports, star sports hindi, star sports 1 hindi, ss 1 hindi, star sports cricket, star sports ipl",
+      "Views": 1089
+   },
+   {
+      "channelCat": "Sports",
+      "channelLang": "Hindi",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png",
+      "channelName": "Star Sports 1 Hindi HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1371",
+      "contentId": "ss1hindi",
+      "keywords": "star sports, star sports hindi, star sports 1 hindi, ss 1 hindi, star sports cricket, star sports ipl",
+      "Views": 4066
+   },
+   {
+      "channelCat": "",
+      "channelLang": "English",
+      "channelLogo": "https://www.tatasky.com/s3-api/v1/assets/channels/star-sports-first.gif",
+      "channelName": "Star Sports First",
+      "channelUrl": "https://d1952r0kw11lwg.cloudfront.net/105.m3u8",
+      "contentId": "ssfirst",
+      "Views": 240
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg/revision/latest/scale-to-width-down/250?cb=20200210144000",
+      "channelName": "Star Gold HD",
+      "channelUrl": "http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8",
+      "contentId": "stargold_hd_tv",
+      "Views": 1517
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Bengali",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",
+      "channelName": "Star Jalsha HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/3527",
+      "contentId": "starjalsha_channel",
+      "Views": 214
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Bengali",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg",
+      "channelName": "Star Jalsha Movies HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/543",
+      "contentId": "starjalsha_movies_channel",
+      "Views": 214
+   },
+   {
+      "channelCat": "",
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylKOofwZKlf2s9IXKsOOzd3uCJSsewKx4eg&usqp=CAU",
+      "channelName": "Star Plus",
+      "channelUrl": "http://173.199.120.51/hls/chsp.m3u8",
+      "contentId": "starplus_channel",
+      "Views": 1106
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2ZKdaAF4ifLB7IL14zPJeHQUvXymNxQ9MQ&usqp=CAU",
+      "channelName": "Star Plus HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1365",
+      "contentId": "starplus_hd_channel",
+      "hideControls": true,
+      "Views": 1106
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Marathi",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/8/81/Star_Pravah_HD_2019.png/revision/latest/scale-to-width-down/250?cb=20191204142540",
+      "channelName": "Star Pravah HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/948",
+      "contentId": "starpravah",
+      "Views": 665
+   },
+   {
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh2WEx-9xxIePwPwdA5Fdd9fUnhreruu5Liw&usqp=CAU",
+      "channelName": "Star Utsav",
+      "channelUrl": "https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8",
+      "contentId": "starutsav_channel",
+      "Views": 224
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Kannada",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Suvarna_News.png?raw=true",
+      "channelName": "Suvarna News",
+      "channelUrl": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8",
+      "contentId": "suvarnanews_tv",
+      "Views": 31
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLDbayqkcznZC4IHlWaI6LQsLrmraP3plNwg&usqp=CAU",
+      "channelName": "Swaraj Express",
+      "channelUrl": "https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8",
+      "contentId": "swarajexpress_hi_news",
+      "Views": 10
+   },
+   {
+      "channelCat": "",
+      "channelLang": "English",
+      "channelLogo": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,h_494,q_auto:eco,w_344/https://origin-staticv2.sonyliv.com/portrait_thumb/AUSa_VS_INDa_DAY1_2020_1024x1471.jpg",
+      "channelName": "Test Match",
+      "channelUrl": "",
+      "contentId": "test_match_ind_aus_a_tv",
+      "Views": 55
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Tamil",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Thanthi_TV.png?raw=true",
+      "channelName": "Thanthi TV",
+      "channelUrl": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8",
+      "contentId": "thanthitv_tv",
+      "Views": 19
+   },
+   {
+      "channelCat": "Infotainment",
+      "channelLang": "English",
+      "channelLogo": "https://i.imgur.com/6V48LwT.jpg",
+      "channelName": "Travel XP",
+      "channelUrl": "https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+      "contentId": "travelxp",
+      "Views": 27
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Tamil",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Tunes_6.png?raw=true",
+      "channelName": "Tunes 6",
+      "channelUrl": "https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8",
+      "contentId": "tunes6_tv",
+      "Views": 152
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Marathi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_857/PORTRAIT/ZBl37uGY.png?o=production",
+      "channelName": "TV9 Marathi",
+      "channelUrl": "https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/e0e2e589b469448ca0948b36a2717ea3/index.m3u8",
+      "contentId": "tv9marathi_tv",
+      "Views": 315
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Telugu",
+      "channelLogo": "https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png",
+      "channelName": "TV9 Telugu",
+      "channelUrl": "https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8",
+      "contentId": "tv9telugu_tv",
+      "Views": 70
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Tamil",
+      "channelLogo": "https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Velicham.png/revision/latest?cb=20191225182426",
+      "channelName": "Velicham",
+      "channelUrl": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
+      "contentId": "velicham_tv",
+      "Views": 14
+   },
+   {
+      "channelLang": "Kids",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgSjH3lMOnc5keJZ_3RFeJXtfUfKnrSMnbFw&usqp=CAU",
+      "channelName": "Zee5 Kids",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/9b05285c38c54549a5afd04473bdd65c/index.m3u8",
+      "contentId": "z5kids_channel",
+      "Views": 116
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Marathi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_432/PORTRAIT/oSPJiEzV.png?o=production",
+      "channelName": "Zee 24 Taas",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/915deae3b9024babbe4e35748e296d34/index.m3u8",
+      "contentId": "zee24taas_tv",
+      "Views": 796
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_Action.png?raw=true",
+      "channelName": "Zee Action",
+      "channelUrl": "https://z5ams.akamaized.net/action/index.m3u8",
+      "contentId": "zeeaction_tv",
+      "Views": 90
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://raw.githubusercontent.com/amjiddader/logo/master/India/Zee_Anmol_Cinema.png",
+      "channelName": "Zee Anmol Cinema",
+      "channelUrl": "https://z5ams.akamaized.net/zanmolcnm/index.m3u8",
+      "contentId": "zeeanmolcinema_tv",
+      "Views": 77
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Bengali",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_Bangla.png?raw=true",
+      "channelName": "Zee Bangla",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/9616200b22e049a8947aae755487d289/index.m3u8",
+      "contentId": "zeebangla_tv",
+      "Views": 79
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Bengali",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/215x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_408/PORTRAIT/f64e36bc-e12a-417d-b768-6ef2000a348d.png?o=production",
+      "channelName": "Zee Bangla Cinema",
+      "channelUrl": "https://z5ams.akamaized.net/zbanglacnm/index.m3u8",
+      "contentId": "zeebanglacinema_tv",
+      "Views": 40
+   },
+   {
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_734/PORTRAIT/JdOC9ieM.png?o=production",
+      "channelName": "Zee Bihar Jharkhand",
+      "channelUrl": "https://z5ams.akamaized.net/biharjharkh/index.m3u8",
+      "contentId": "zeebh_jk_hi_channel",
+      "Views": 15
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToqK7EnLyjVIz4d8bSL9gXGBIBA_xXyvDNWQ&usqp=CAU",
+      "channelName": "Zee Bioskop",
+      "channelUrl": "https://z5ams.akamaized.net/zbiskope/index.m3u8",
+      "contentId": "zeebioskop_tv",
+      "Views": 53
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_566/PORTRAIT/gq8mpPvf.png?o=production",
+      "channelName": "Zee Bollywood",
+      "channelUrl": "https://z5ams.akamaized.net/classic/index.m3u8",
+      "contentId": "zeebollywood_tv",
+      "Views": 190
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_436/PORTRAIT/vExrDK9r.png?o=production",
+      "channelName": "Zee Business",
+      "channelUrl": "https://z5ams.akamaized.net/zeebusiness/index.m3u8",
+      "contentId": "zeebusiness_hi_channel",
+      "Views": 256
+   },
+   {
+      "channelLang": "English",
+      "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_267,h_147,c_scale,f_auto,q_auto/resources/0-9-zeecafehd/channel_list/09zeecafehdzeecaf_hd.png",
+      "channelName": "Zee Cafe HD",
+      "channelUrl": "https://z5ams.akamaized.net/zeecafehd/index.m3u8",
+      "contentId": "zeecafe_hd_channel",
+      "Views": 29
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_Cinema_HD.png?raw=true",
+      "channelName": "Zee Cinema HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8",
+      "contentId": "zeecinema_hd_tv",
+      "Views": 1005
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_441/PORTRAIT/Zux6faL8.png?o=production",
+      "channelName": "Zee Cinema",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/14c290cdde854265b74f78b102f6ecd8/index.m3u8",
+      "contentId": "zeecinema_tv",
+      "Views": 617
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Telugu",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png?o=production",
+      "channelName": "Zee Cinemalu HD",
+      "channelUrl": "https://z5ams.akamaized.net/zcinemaluhd/index.m3u8",
+      "contentId": "zeecinemalu_tv",
+      "Views": 244
+   },
+   {
+      "channelLang": "Hindi",
+      "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-176/channel_list/09176zeeclassic.png",
+      "channelName": "Zee Classic",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/74df8b02f8ab47909df9a9f3189a1012/index.m3u8",
+      "contentId": "zeeclassic_channel",
+      "Views": 105
+   },
+   {
+      "channelLang": "Hindi",
+      "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_350,h_197,c_scale,f_auto,q_auto/resources/0-9-zeehindustan/channel_list/09zeehindustanzeehindustan.png",
+      "channelName": "Zee Hindusthan",
+      "channelUrl": "https://z5ams.akamaized.net/hindustan/index.m3u8",
+      "contentId": "zeehthan_channel",
+      "Views": 13
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Kannada",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREC_TiWh5pxFtlXFJJBMNOXYZXKOE75hb48Q&usqp=CAU",
+      "channelName": "Zee Kannada HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/bbdf5ccb4a5f48c8911605cb5440598c/index.m3u8",
+      "contentId": "zeekannada_tv",
+      "Views": 62
+   },
+   {
+      "channelLang": "Malayalam",
+      "channelLogo": "https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_auto,q_auto/resources/0-9-129/channel_list/logo386x386_1671820527.png",
+      "channelName": "Zee Keralam HD",
+      "channelUrl": "https://z5ams.akamaized.net/livingfoodzhd/index.m3u8",
+      "contentId": "zeekeralam_hd_channel",
+      "Views": 24
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Marathi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_771/PORTRAIT/JxGFD51k.png?o=production",
+      "channelName": "Zee Marathi HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/30bfd698af924d4abce147906278419c/index.m3u8",
+      "contentId": "zeemarathi_hd_tv",
+      "Views": 4348
+   },
+   {
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYM8w37jhNs23I5zUze9ZtqnGGP2ZduRViw&usqp=CAU",
+      "channelName": "Zee MP CG",
+      "channelUrl": "https://z5ams.akamaized.net/newsmpcg/index.m3u8",
+      "contentId": "zeempcg_channel",
+      "Views": 12
+   },
+   {
+      "channelCat": "News",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_News.png?raw=true",
+      "channelName": "Zee News",
+      "channelUrl": "https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/index.m3u8",
+      "contentId": "zeenews_tv",
+      "Views": 168
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Kannada",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkcJ60WOY-66SbfcRlY2sWQBsaocwqThRF47XvARfHCaL2I3uKvhvz_U&s=10",
+      "channelName": "Zee Picchar",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/67ae07c9f509407f9fc328e586b3bd02/index.m3u8",
+      "contentId": "zeepicchar_tv",
+      "Views": 64
+   },
+   {
+      "channelCat": "",
+      "channelLang": "Marathi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/PORTRAIT/fh6tPTh6.png?o=production",
+      "channelName": "Zee Talkies HD",
+      "channelUrl": "https://z5ams.akamaized.net/ztalkieshd/index.m3u8",
+      "contentId": "zeetalkies_hd_channel",
+      "Views": 325
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Marathi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMS_n5-6JGFb1DWNYPNJ_IodHSw5dM67ngig&usqp=CAU",
+      "channelName": "Zee Chitramandir",
+      "channelUrl": "https://z5ams.akamaized.net/zeechitramandir/index.m3u8",
+      "contentId": "zeetalkies_tv",
+      "Views": 404
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Tamil",
+      "channelLogo": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1010/PORTRAIT/d3Gg9pby.png",
+      "channelName": "Zee Tamil HD",
+      "channelUrl": "https://z5ams.akamaized.net/zeetamilhd/index.m3u8",
+      "contentId": "zeetamil_tv",
+      "Views": 52
+   },
+   {
+      "channelCat": "",
+      "channelLang": "Telugu",
+      "channelLogo": "https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Telugu-HD.png",
+      "channelName": "Zee Telugu HD",
+      "channelUrl": "https://z5ams.akamaized.net/zeeteleguhd/index.m3u8",
+      "contentId": "zeetelugu_hd_channel",
+      "Views": 155
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Telugu",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_442/PORTRAIT/k6LwXqgs.png?o=production",
+      "channelName": "Zee Telugu",
+      "channelUrl": "https://z5ams2.akamaized.net/out/v1/0aba939360f14c5dbc8f2ac48b9e337a/master.m3u8",
+      "contentId": "zeetelugu_tv",
+      "Views": 136
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Tamil",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ObRAP_0Kl735ABw-pw169Y1an9UBKPl_Tg&usqp=CAU",
+      "channelName": "Zee Thirai",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
+      "contentId": "zeethirai_tv",
+      "Views": 56
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://github.com/amjiddader/logo/blob/master/India/Zee_TV_HD.png?raw=true",
+      "channelName": "Zee TV HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db/index.m3u8",
+      "contentId": "zeetv_hd_tv",
+      "Views": 1744
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Marathi",
+      "channelLogo": "https://www.indiantvinfo.com/media/2020/09/Zee-Vajwa-Channel-Logo.png",
+      "channelName": "Zee Vajwa",
+      "channelUrl": "https://z5ams.akamaized.net/zeevajwa/index.m3u8",
+      "contentId": "zeevajwa_tv",
+      "Views": 334
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Marathi",
+      "channelLogo": "https://firebasestorage.googleapis.com/v0/b/fir-b876b.appspot.com/o/FireVideo%2FTV%2FZee%2FZeeyuva_new.png.webp?alt=media&token=75cc4fd3-1200-4e84-b7e3-5c84e99dc06c",
+      "channelName": "Zee Yuva",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/8cb6a17f49784fda88939f24b083af45/index.m3u8",
+      "contentId": "zeeyuva_tv",
+      "Views": 107
+   },
+   {
+      "channelLang": "English",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9K5ugpD4AGJb1boD3yT2fHB6mM4HMrIR_w&usqp=CAU",
+      "channelName": "Zee Zest HD",
+      "channelUrl": "https://z5ams.akamaized.net/out/v1/8b3c00846f3040cd84c3f37d9f36ea75/index.m3u8",
+      "contentId": "zeezest_hd_channel",
+      "Views": 70
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_578/PORTRAIT/1x8qAt8z.png?o=production",
+      "channelName": "Zing",
+      "channelUrl": "https://z5ams.akamaized.net/zing/index.m3u8",
+      "contentId": "zing_music",
+      "Views": 68
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Hindi",
+      "channelLogo": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1012/PORTRAIT/rjKh2jqQ.png?o=production",
+      "channelName": "Zoom",
+      "channelUrl": "https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8",
+      "contentId": "zoom_tv",
+      "Views": 198
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Hindi",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxduXEVVIoBnCjojNlxOeowt8g6Sl2bLJHTQ&usqp=CAU",
+      "channelName": "Sony SAB",
+      "channelUrl": "http://182.176.169.29:7000/play/a0f0",
+      "contentId": "sonysab_sd_tv",
+      "Views": 1356
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Kannada",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFxoI7ndCJmX1432FwG062dBPy3YVJKpnIEg&usqp=CAU",
+      "channelName": "Udaya Movies",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1111",
+      "contentId": "udayamovies",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Bengali",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRplRD9IY6CQhf-knR6D52hdCmNLBp7bRPg&usqp=CAU",
+      "channelName": "Sun Bangla",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/3528",
+      "contentId": "sunbangla",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Tamil",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_05vuZtVF3UkQA9PPpHQxPwH_eTxuGKZM-g&usqp=CAU",
+      "channelName": "Sun Music",
+      "channelUrl": "http://uk1.zecast.com:1935/star-live/smusic/chunklist_w1365562027.m3u8",
+      "contentId": "sunmusic",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Devotional",
+      "channelLang": "Tamil",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_05vuZtVF3UkQA9PPpHQxPwH_eTxuGKZM-g&usqp=CAU",
+      "channelName": "SVBC 2 Tamil",
+      "channelUrl": "https://m-c049-j2apps.s.llnwi.net/hls/5331.SVBC2.in_480p/index.m3u8",
+      "contentId": "svbc2tamil",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Telugu",
+      "channelLogo": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/gemini-movies-hd-logo-300x300.jpg",
+      "channelName": "Gemini Movies HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/382",
+      "contentId": "geminimovieshd",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Kannada",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Udaya_Music.jpg/revision/latest/scale-to-width-down/250?cb=20180318053133",
+      "channelName": "Udaya Music",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1510",
+      "contentId": "udyamusic",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Kannada",
+      "channelLogo": "https://www.kannadatvshows.com/pictures/2017/03/Udaya-HD-Availability-1200x1200.jpg",
+      "channelName": "Udaya TV HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1103",
+      "contentId": "udyatvhd",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Telugu",
+      "channelLogo": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7408/567408-h",
+      "channelName": "Star Maa Gold",
+      "channelUrl": "http://watchindia.net:8880/live/33253/72963/935.ts",
+      "contentId": "starmaagold",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Movies",
+      "channelLang": "Telugu",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVk9ry48UBtanxYx-0qEP01qMO2zwVXOup9w&usqp=CAU",
+      "channelName": "Star Maa Movies HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/375",
+      "contentId": "starmaamovieshd",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Telugu",
+      "channelLogo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Gemini_TV_New_logo.jpg",
+      "channelName": "Gemini TV",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1120",
+      "contentId": "geminitv",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Telugu",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg/revision/latest?cb=20190204051948",
+      "channelName": "Gemini Comedy",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/383",
+      "contentId": "geminicomedy",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Telugu",
+      "channelLogo": "https://sund-images.sunnxt.com/26572/1920x1080_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg",
+      "channelName": "Gemini Life",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1503",
+      "contentId": "geminilife",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Telugu",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/7/73/Star_Maa_HD.jpeg/revision/latest/scale-to-width-down/250?cb=20200817123350",
+      "channelName": "Star Maa HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/374",
+      "contentId": "starmaahd",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Music",
+      "channelLang": "Telugu",
+      "channelLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVEoapOB3H_fVK4sN0GjosLXtvA8nkv2-h0h_6YODnL9zdfTTI_8SwXu49xUz8NZvdj44&usqp=CAU",
+      "channelName": "Star Maa Music",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1504",
+      "contentId": "starmaamusic",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Telugu",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/c/c2/ETV_Telugu.svg/revision/latest/scale-to-width-down/200?cb=20200827090349",
+      "channelName": "ETV HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/385",
+      "contentId": "etvteluguhd",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Kannada",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/9/9f/Star_Suvarna_HD.jpg/revision/latest?cb=20180531132211",
+      "channelName": "Star Suvarna HD",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1100",
+      "contentId": "starsuvarnahd",
+      "hideControls": true
+   },
+   {
+      "channelCat": "Entertainment",
+      "channelLang": "Kannada",
+      "channelLogo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Sri_Sankara_Kannada.jpeg/revision/latest/scale-to-width-down/250?cb=20191227124657",
+      "channelName": "Sri Sankara Kannada",
+      "channelUrl": "http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1098",
+      "contentId": "srisankarakannada",
+      "hideControls": true
+   }
+]
