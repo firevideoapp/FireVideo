@@ -4,20 +4,26 @@
     "id": "gold",
     "price": 99,
     "validity": "28 days",
-    "features": "High Resolution_nDirect Play_nUnlimited Downloads"
+    "features": "High Resolution_nDirect Play_nUnlimited Downloads",
+    "downloads" : true,
+    "visibility" : true,
   },
   {
     "title": "Silver",
     "id": "silver",
     "price": 49,
     "validity": "28 days",
-    "features": "High 720p Quality_nDirect Play_nUnlimited Downloads"
+    "features": "High 720p Quality_nDirect Play_nUnlimited Downloads",
+    "downloads" : true,
+    "visibility" : true,
   },
   {
     "title": "Basic",
     "id": "basic",
     "price": 29,
     "validity": "28 days",
-    "features": "High 360p Quality_nUnlimited Downloads"
+    "features": "High 360p Quality_nUnlimited Downloads",
+    "downloads" : true,
+    "visibility" : true,
   }
 ]
