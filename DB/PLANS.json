@@ -6,7 +6,7 @@
     "validity": "28 days",
     "features": "High Resolution_nDirect Play_nUnlimited Downloads",
     "downloads" : true,
-    "visibility" : true,
+    "visibility" : true
   },
   {
     "title": "Silver",
@@ -15,7 +15,7 @@
     "validity": "28 days",
     "features": "High 720p Quality_nDirect Play_nUnlimited Downloads",
     "downloads" : true,
-    "visibility" : true,
+    "visibility" : true
   },
   {
     "title": "Basic",
@@ -24,6 +24,6 @@
     "validity": "28 days",
     "features": "High 360p Quality_nUnlimited Downloads",
     "downloads" : true,
-    "visibility" : true,
+    "visibility" : true
   }
 ]
